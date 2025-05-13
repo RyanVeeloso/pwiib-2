@@ -20,5 +20,5 @@
     }
 </script>
 
-
+echo "a"
 <?php include "rodape.php"; ?>
